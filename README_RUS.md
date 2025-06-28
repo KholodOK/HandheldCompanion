@@ -1,12 +1,12 @@
-[![Download Latest](https://img.shields.io/github/downloads/Valkirie/HandheldCompanion/latest/total?style=flat-square&color=orange&label=Download%20Latest)](https://github.com/Valkirie/HandheldCompanion/releases/latest)
-[![discord](https://img.shields.io/discord/1054321983166365726?color=orange&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/znHuywFz5M)
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCFLra6QVYJYeaWp2mGaq3Og?style=flat-square&color=orange&label=YouTube%20Channel&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFLra6QVYJYeaWp2mGaq3Og)
-[![Donations](https://img.shields.io/badge/PayPal-00457C?style=flat-square&color=orange&label=Donations&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/BenjaminLSR)
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dhandheldcompanion%26type%3Dpatrons&style=flat-square&color=orange&label=Patreon&logoColor=white)](https://patreon.com/handheldcompanion)
+[![Последняя версия](https://img.shields.io/github/downloads/Valkirie/HandheldCompanion/latest/total?style=flat-square&color=orange&label=Download%20Latest)](https://github.com/Valkirie/HandheldCompanion/releases/latest)
+[![Discord](https://img.shields.io/discord/1054321983166365726?color=orange&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/znHuywFz5M)
+[![YouTube канал](https://img.shields.io/youtube/channel/subscribers/UCFLra6QVYJYeaWp2mGaq3Og?style=flat-square&color=orange&label=YouTube%20Channel&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFLra6QVYJYeaWp2mGaq3Og)
+[![Поддержать проект](https://img.shields.io/badge/PayPal-00457C?style=flat-square&color=orange&label=Donations&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/BenjaminLSR)
+[![Поддержите меня на патреоне](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dhandheldcompanion%26type%3Dpatrons&style=flat-square&color=orange&label=Patreon&logoColor=white)](https://patreon.com/handheldcompanion)
 
 # Handheld Companion
 
-A touch optimized GUI to increase your handheld gaming computer experience. Features include:
+Утилита, оптимизированная для сенсорного ввода, для улучшения игрового опыта на Вашем портативном игровом ПК. Включает в себя:
 - Motion control a.k.a. gyro control through a device's inertial measurement unit (IMU, Gyroscope and Accelerometer) or external sensor. Settings availible for racing, 1st and 3rd person gaming and emulator support.
 - Quicktools overlay, with easy access to various settings and informatio such as TDP, Auto TDP, GPU, Screen Hz, Framelimiter, Resolution, Brightness, Volume, Powermode control and battery level.
 - Virtual controller simulation of [Microsoft Xbox 360 Controller](https://en.wikipedia.org/wiki/Xbox_360_controller) and [Sony DualShock 4 Controller](https://en.wikipedia.org/wiki/DualShock#DualShock_4).
