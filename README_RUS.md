@@ -7,28 +7,28 @@
 # Handheld Companion
 
 Утилита, оптимизированная для сенсорного ввода, для улучшения игрового опыта на Вашем портативном игровом ПК. Включает в себя:
-- Motion control a.k.a. gyro control through a device's inertial measurement unit (IMU, Gyroscope and Accelerometer) or external sensor. Settings availible for racing, 1st and 3rd person gaming and emulator support.
-- Quicktools overlay, with easy access to various settings and informatio such as TDP, Auto TDP, GPU, Screen Hz, Framelimiter, Resolution, Brightness, Volume, Powermode control and battery level.
-- Virtual controller simulation of [Microsoft Xbox 360 Controller](https://en.wikipedia.org/wiki/Xbox_360_controller) and [Sony DualShock 4 Controller](https://en.wikipedia.org/wiki/DualShock#DualShock_4).
-- Profile settings system, automatic detection of active game and applying of settings.
-- Gamepad remapping to mouse and keyboard, gamepad joystick and trigger deadzone adjustements.
-- PS Remote Play support with DS4 controller, including motion and touchpad.
-- 3D Controller overlay for stream recordings.
-- Hotkeys for various conveniences. 
+- Управление движением или же управление гироскопом с использованием встроенных модулей (IMU, Гироскоп и акселеромерт) или внешних датчиков. Доступны настройка для разных игр (гоночные симуляторы, игры с видом от 1го или 3го лица), а также для эмуляторов.
+- Quicktools оверлей с быстрым доступом к различным настройкам и информации (TPD, Auto TDP, GPU, Частота экрана, ограничение частоты кадров, разрешение, яркость экрана, звук, режимы мощности и уровень батареи)
+- Эмуляция виртуальных контроллеров [Microsoft Xbox 360 Controller](https://en.wikipedia.org/wiki/Xbox_360_controller) и [Sony DualShock 4 Controller](https://en.wikipedia.org/wiki/DualShock#DualShock_4).
+- Система профилей игр (автоматическое определение запущенной игры и применение настроек).
+- Настройка геймпада на клавиатуру и мышь, настройка мертвых зон стиков и триггеров.
+- Поддержка PS Remote Play с DS4, включая гироскоп и сенсорную панель.
+- Оверлей для записи видео.
+- Горячие клавиши для вашего удобства. 
 
-## Use cases
-A few examples of the most common use cases are:
-- You want to add universal motion controls (UMC) to any game.
-- You want to add high-precision motion controls to your Windows game library through [Steam](https://store.steampowered.com/controller/update/dec15).
-- You want to play your Sony Playstation 4 library through [PlayStation Now](https://www.playstation.com/en-us/ps-now/) or [PS4 Remote Play](<https://remoteplay.dl.playstation.net/remoteplay/>).
-- You want to enjoy all your [Wii](https://dolphin-emu.org/), [WiiU](https://cemu.info/) and [Switch](https://ryujinx.org/) games with full motion controls through UDP motion control protocol.
+## В каких случаях использовать?
+Несколько примеров распрастраненных сценариев использования:
+- Необходимость включения управления движением в любой игре.
+- Необходимость использования высокоточного управления движением в играх из вашей библиотеки Steam на Windows [Steam](https://store.steampowered.com/controller/update/dec15).
+- Желание поиграть в игры с PlayStation с использованием [PlayStation Now](https://www.playstation.com/en-us/ps-now/) или [PS4 Remote Play](<https://remoteplay.dl.playstation.net/remoteplay/>).
+- Хотите насладиться играми с [Wii](https://dolphin-emu.org/), [WiiU](https://cemu.info/) и [Switch](https://ryujinx.org/) используя уравление движением.
 
 [Youtube Channel](https://www.youtube.com/channel/UCFLra6QVYJYeaWp2mGaq3Og)
 
-## Supported Systems
-The software is built for Windows 10/Windows 11 (x86 and amd64).
+## Поддерживаемые системы
+Утилита создана для Windows 10/Windows 11 (x86 и amd64).
 
-## Supported Devices
+## Поддерживаемые устройства
 
 - ASUS ROG Ally, ROG Ally X
 - ASUS ROG Z13
@@ -55,35 +55,35 @@ The software is built for Windows 10/Windows 11 (x86 and amd64).
 - GPD Win Mini (all models)
 - Ayn Loki (all models)
 
-## Supported Sensors
+## Поддерживаемые датчики
 - Bosch BMI160 (and similar)
 - USB IMU (GY-USB002)
 
-## Supported Languages
-- English
-- French
-- German
-- Italian
-- Japanese
-- Portuguese (Brazilian)
-- Spanish
-- Chinese (Simplified)
-- Chinese (Traditional)
+## Поддерживаемые языки
+- Английский
+- Французский
+- Немецкий
+- Итальянский 
+- Японский
+- Португальский (Бразильский)
+- Испанский
+- Китайский (Упрощенный)
+- Китайский (Традиционный)
 
-## Partners
+## Партнеры
 ![image](https://github.com/Valkirie/HandheldCompanion/assets/934757/0833e620-c629-4f63-b337-9b10138988b7)
 
-[DroiX](https://droix.net/?ref=dxhc), are trusted and respected sellers for PC gaming handhelds including GPD, AYA NEO, ONEXPLAYER & AOKZOE. Shipping worldwide with local return centers, their expert customer service is there to provide support, answer any queries and ensure you get the best support for your purchase. Try them today!
+[DroiX](https://droix.net/?ref=dxhc), проверенный и надежный продавец портативных ПК-игровых устройств, включая бренды GPD, AYA NEO, ONEXPLAYER и AOKZOE. Доставка по всему миру с местными точками возврата. Профессионалы в службе поддержки всегда готовы помочь, ответить на любые вопросы и обеспечить максимально комфортное пользование после покупки. Попробуйте уже сегодня!
 
 [Droix Discord](https://go.droix.co.uk/discord)
 
-## Visuals
+## Скриншоты
 ![image](https://github.com/user-attachments/assets/ef23d781-2c50-4037-9f33-b865af585a75)
 ![image](https://github.com/user-attachments/assets/27a1c75e-7694-4de1-b2cf-f317739cf1f4)
 ![image](https://github.com/user-attachments/assets/a65d2e44-9360-422f-9196-4b171db768cc)
 ![image](https://github.com/user-attachments/assets/8a2ed386-395c-404f-b5c8-2f5f7c616efe)
 
-## Overlay
+## Оверлей
 The software has multiple built-in performance metric overlay options. 
 
 ![image](https://github.com/Valkirie/HandheldCompanion/assets/14330834/b01e757d-3a68-4d8d-b62e-9129b577d022)
